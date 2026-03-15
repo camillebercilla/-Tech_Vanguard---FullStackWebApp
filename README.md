@@ -13,7 +13,7 @@ Welcome to the official repository of <Tech_Vanguard/> for the IT112 Final Proje
 - Nathaniel: https://www.facebook.com/riondegenisis  
 - Mariel: https://www.facebook.com/mariel.odono.2025  
 - Anna: https://www.facebook.com/profile.php?id=61586995230937  
-- Ednar: https://www.facebook.com/johnedmar.bongcodin.28
+- Edmar: https://www.facebook.com/johnedmar.bongcodin.28
 </details>
 
 ---
