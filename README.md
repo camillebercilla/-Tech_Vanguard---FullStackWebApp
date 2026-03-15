@@ -9,21 +9,6 @@ Welcome to the official repository of <Tech_Vanguard/> for the IT112 Final Proje
 
 <br>
 
-[![Facebook - Camille](https://img.shields.io/badge/Facebook-Camille-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/camille.bercilla)
-
-[![Facebook - Rion](https://img.shields.io/badge/Facebook-Rion-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/riondegenisis)
-
-[![Facebook - Mariel](https://img.shields.io/badge/Facebook-Mariel-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mariel.odono.2025)
-
-[![Facebook - Profile](https://img.shields.io/badge/Facebook-Profile-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61586995230937)
-
-## 🌐 Socials
-
-<details>
-<summary>Click to view our social links</summary>
-
-<br>
-
 - Camille: https://www.facebook.com/camille.bercilla  
 - Rion: https://www.facebook.com/riondegenisis  
 - Mariel: https://www.facebook.com/mariel.odono.2025  
@@ -32,6 +17,7 @@ Welcome to the official repository of <Tech_Vanguard/> for the IT112 Final Proje
 </details>
 
 ---
+
 # 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
