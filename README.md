@@ -10,9 +10,9 @@ Welcome to the official repository of <Tech_Vanguard/> for the IT112 Final Proje
 <br>
 
 - Camille: https://www.facebook.com/camille.bercilla  
-- Rion: https://www.facebook.com/riondegenisis  
+- Nathaniel: https://www.facebook.com/riondegenisis  
 - Mariel: https://www.facebook.com/mariel.odono.2025  
-- Profile: https://www.facebook.com/profile.php?id=61586995230937  
+- Anna: https://www.facebook.com/profile.php?id=61586995230937  
 
 </details>
 
